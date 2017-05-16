@@ -52,6 +52,9 @@ gem 'stripe', '~> 1.57.1'
 # Use figaro to hide secret keys
 gem 'figaro', '1.1.1'
 
+# Use paperclip for image uploads
+gem 'paperclip', '~> 4.3.6'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
