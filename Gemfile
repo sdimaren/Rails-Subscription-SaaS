@@ -53,7 +53,7 @@ gem 'stripe', '~> 1.57.1'
 gem 'figaro', '1.1.1'
 
 # Use paperclip for image uploads
-gem 'paperclip', '~> 4.3.6'
+gem 'paperclip', '~> 4.2.1'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
